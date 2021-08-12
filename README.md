@@ -1,0 +1,1 @@
+Bilingual application programmed for Local Montreal Cannabis Medic Consultation firm to schedule meetings with Doctor and Consultant To discuss patients need to grow Cannabis or buy from a licenced producer. Allows the client to track meetings with doctor and consultants, as well as receive push notification reminder alerts.
